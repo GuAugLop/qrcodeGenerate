@@ -6,6 +6,5 @@ function generate() {
   document.getElementById("qrcode").innerHTML = "";
   qr.addData(url);
   qr.make();
-  console.log(qr);
   document.getElementById("qrcode").innerHTML = qr.createImgTag(6, 6, 6);
 }
