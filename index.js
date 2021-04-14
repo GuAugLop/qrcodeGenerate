@@ -1,4 +1,4 @@
-var typeNumber = 2;
+var typeNumber = 6;
 var errorCorrectionLevel = "L";
 var qr = qrcode(typeNumber, errorCorrectionLevel);
 function generate() {
