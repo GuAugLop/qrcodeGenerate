@@ -1,7 +1,5 @@
 {
-  "dependencies": {
-    "qrcode-generator": "^1.4.4"
-  },
+  "dependencies": {},
   "name": "help",
   "version": "1.0.0",
   "main": "index.js",
