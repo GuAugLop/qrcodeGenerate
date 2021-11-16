@@ -1,6 +1,6 @@
 {
   "dependencies": {},
-  "name": "help",
+  "name": "QRCode-generator",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
